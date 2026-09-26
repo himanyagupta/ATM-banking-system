@@ -13,7 +13,7 @@ This project is a simple ATM simulation that demonstrates basic banking operatio
 - Balance inquiry
 - Cash deposit
 - Cash withdrawal
-- Database connectivity using SQL
+- Database connectivity using MySQL
 - Simple user interface
 
 ## Technologies Used
