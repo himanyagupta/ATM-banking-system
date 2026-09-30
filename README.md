@@ -16,7 +16,7 @@ This project is a simple ATM simulation that demonstrates basic banking operatio
 - Database connectivity using MySQL
 - Simple user interface
 
-## Technologies Used
+## Technologies Used (tech stack)
 
 - Python
 - Tkinter — for the graphical user interface
