@@ -4,7 +4,7 @@
 
 ## About the Project
 
-This project is a simple ATM simulation that demonstrates basic banking operations using Python and MySQL. It connects a Python application to a MySQL database to store and manage user account information.
+This project is a simple ATM simulation that demonstrates basic banking operations using Python and MySQL. It connects a Python application to a MySQL database to store and manage user account information. :)
 
 ## Features
 
