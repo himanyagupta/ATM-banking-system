@@ -1,6 +1,6 @@
 # ATM Banking System
 
-## A Python and MySQL based ATM banking system prototype with a Tkinter graphical user interface.
+## A Python and MySQL based ATM banking system prototype with a Tkinter graphical user interface.:)
 
 ## About the Project
 
